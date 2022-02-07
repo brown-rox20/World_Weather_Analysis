@@ -6,14 +6,14 @@ Jack loves the PlanMyTrip app. Beta testers love it too. And, as with any new pr
 
 ## Software
 
-• Python 3.9.7
-• Jupyter Notebook 6.4.6
+- Python 3.9.7
+- Jupyter Notebook 6.4.6
 
-# APIs
+## APIs
 
-• OpenWeatherMap
-• Google Map Places API
-• Google Maps Directions API
+- OpenWeatherMap
+- Google Map Places API
+- Google Maps Directions API
 
 ## Deliverable 1
 
