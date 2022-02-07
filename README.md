@@ -33,4 +33,4 @@ Use the Google Directions API to create a travel itinerary that shows the route 
 
 <img src="https://github.com/brown-rox20/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png" alt="WeatherPy_travel_map.png">
 
-<img src="https://github.com/brown-rox20/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png" alt="WeatherPy_travel_map_markers.png">
+<img src="https://github.com/brown-rox20/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" alt="WeatherPy_travel_map_markers.png">
